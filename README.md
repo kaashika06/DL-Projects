@@ -1,7 +1,6 @@
 # ML/DL Projects
 
-Implementations of core machine learning and optimization algorithms, built from scratch in Python and applied to mechanical engineering problems (spring-mass systems, beam deflection, heat conduction). Done as coursework for ME504, extended with additional experiments on hyperparameters, regularization, and noise sensitivity.
-
+Implementations of core machine learning and optimization algorithms, built from scratch in Python and applied to mechanical engineering problems (spring-mass systems, beam deflection, heat conduction). 
 ## Projects
 
 | # | Project | Concepts | Notebook |
